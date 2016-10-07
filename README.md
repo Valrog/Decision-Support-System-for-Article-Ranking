@@ -9,3 +9,7 @@ The database can then be directly constructed from the E-R model alone with no p
 <h5>Remark:</h5> The E-R model is an adaptation of a theoretical model presented in the article <a href="https://www.thinkmind.org/index.php?view=article&articleid=advcomp_2014_4_20_20073">
 <i>"Towards a Decision Support System for Automated Selection of Optimal Neural Network Instance for Research and Engineering"</i></a>.
 Therefore, the current model is directed at ranking articles regarding Neural Networks and some revisions may be required in order to use it for another purpose.
+
+<h2>Important</h2>
+
+Due to poor professionalism, the algorithmic component of this project will not be published in an effort to protect the creator's intellectual property. As such, this will not be developed any further until a serious collaborator is found.
