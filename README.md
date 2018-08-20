@@ -12,4 +12,4 @@ Therefore, the current model is directed at ranking articles regarding Neural Ne
 
 <h2>Important</h2>
 
-Due to poor professionalism, the algorithmic component of this project will not be published in an effort to protect the creator's intellectual property. As such, this will not be developed any further until a serious collaborator is found.
+Due to poor professionalism, the algorithmic component of this project will not be published in an effort to protect the creator's intellectual property. As such, this will not be developed any further.
